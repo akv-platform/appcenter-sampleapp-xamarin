@@ -10,7 +10,7 @@
     <AssemblyName>sampleAppXamarin.iOS</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
     <ToolsPath>
-      /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin/msbuild.dll
+      /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin
     </ToolsPath>
     <LangVersion>9</LangVersion>
   </PropertyGroup>
