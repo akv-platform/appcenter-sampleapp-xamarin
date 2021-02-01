@@ -9,9 +9,6 @@
     <RootNamespace>sampleAppXamarin.iOS</RootNamespace>
     <AssemblyName>sampleAppXamarin.iOS</AssemblyName>
     <IPhoneResourcePrefix>Resources</IPhoneResourcePrefix>
-    <ToolsPath>
-      /Applications/Visual Studio.app/Contents/Resources/lib/monodevelop/bin/MSBuild/Current/bin
-    </ToolsPath>
     <LangVersion>9</LangVersion>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|iPhoneSimulator' ">
